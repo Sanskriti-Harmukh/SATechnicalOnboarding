@@ -1,1 +1,1 @@
-# SATechnicalOnboarding
+# Microsoft Student Technical Onboarding
